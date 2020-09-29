@@ -1,0 +1,23 @@
+{
+  "name": "Henrotte C.",
+  "version": "1.0.0",
+  "description": "A website designed to attract potential investors and business angels in order to generate a massive amount of cash.",
+  "main": "app.js",
+  "scripts": {
+    "prod": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YvesCousteau/henrotte_c..git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YvesCousteau/henrotte_c./issues"
+  },
+  "homepage": "https://github.com/YvesCousteau/henrotte_c.#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
